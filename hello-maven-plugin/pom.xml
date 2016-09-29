@@ -7,7 +7,7 @@
   <version>1.0</version>
   <packaging>maven-plugin</packaging>
 
-  <name>hello-maven-plugin Maven Plugin</name>
+  <name>hello-maven-plugin Maven Plugin 1.0</name>
 
   <!-- FIXME change it to the project's website -->
   <url>http://maven.apache.org</url>
